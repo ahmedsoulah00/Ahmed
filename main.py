@@ -24,7 +24,7 @@ def keep_alive():
     t.start()
 
 # --- Configuration ---
-TOKEN = '8452234309:AAHRnslpCnrM2Rjnjj5F3WyyQH30mM-dHBc'
+TOKEN = '8847026836:AAGstxciNm_OzoUZ5HStB65dZXyhN4A4Nyw'
 OWNER_ID = 7119011124
 ADMIN_ID = 7119011124
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
